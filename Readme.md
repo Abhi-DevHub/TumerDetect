@@ -19,6 +19,7 @@ A web application that analyzes MRI scans to detect and classify brain tumors, p
 - [Hariom Khonde](https://github.com/hariomkhonde108)
 - [Pranav Gudagi](https://github.com/pranavgudagi)
 - [Abhishek Hiremath](https://github.com)
+- [Dipak R Chaudhari](https://github.com/dchaudhari7177)
 
 
 ## **Setup Instructions**  
